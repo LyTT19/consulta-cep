@@ -9,6 +9,7 @@ Este projeto é uma aplicação web que permite aos usuários consultar informa�
 ## Tecnologias Utilizadas
 
 - Node.js
+- NestJs
 - Node-Cache
 - Axios
 
